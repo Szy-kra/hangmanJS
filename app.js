@@ -1,0 +1,22 @@
+const slownikGlowny = [
+    "antyterrorystyczny",
+    "dezoksyrybonukleinowy",
+    "dysproporcjonalność",
+    "dźwiękonaśladownictwo",
+    "immunocytochemiczny",
+    "interdyscyplinarność",
+    "kontrrewolucjonista",
+    "niekonsekwentność",
+    "nieprawdopodobieństwo",
+    "pięćdziesięciogroszówka",
+    "psychofarmakologia",
+    "psycholingwistyczny",
+    "średniozmineralizowana",
+    "ultramikroskopowość",
+    "wielonarodowościowy",
+    "współodpowiedzialność",
+    "znieczuleniemogólnym",
+    "zniekształceniemetodą",
+    "zniekształceniemetodą",
+    "zniekształceniemetodą"
+];
